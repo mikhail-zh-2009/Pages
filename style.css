@@ -4,7 +4,7 @@ body {
 }
 
 *::selection {
-    color: #3DA4AB;
+    color: #FFA511;
 }
 
 .main {
@@ -12,9 +12,9 @@ body {
     display: inline-block;
     width: 60%;
     min-height: 100vh;
-    background-color: #F6CD61 ;
+    background-color: #FFFDDA;
     border-radius: 5px;
-    color: whitesmoke;
+    color: black;
 }
 
 .inner {
