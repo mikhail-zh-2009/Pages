@@ -1,10 +1,10 @@
 body {
-    background-color: rebeccapurple;
-    font-family: Arial, Helvetica, sans-serif;
+    background-color: #FE8A71;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
 *::selection {
-    color: white;
+    color: #3DA4AB;
 }
 
 .main {
@@ -12,12 +12,13 @@ body {
     display: inline-block;
     width: 60%;
     min-height: 100vh;
-    background-color: plum;
+    background-color: #F6CD61 ;
     border-radius: 5px;
+    color: whitesmoke;
 }
 
 .inner {
-    margin: 0 10% 0 10%;
+    margin: 0 10% 10% 10%;
 }
 
 h1 {
